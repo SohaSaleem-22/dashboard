@@ -12,7 +12,7 @@ A web-based admin dashboard for tracking revenue, inventory, and product registr
 
 ## 🚀 Live Demo
 
-Check the live demo: [Link to Hosted Page](https://your-netlify-or-github-link)
+Check the live demo: [[Link to Hosted Page](https://your-netlify-or-github-link)](https://sohasaleem-22.github.io/dashboard/)
 
 ## 📦 Tech Stack
 
